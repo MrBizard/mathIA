@@ -1,0 +1,5 @@
+Consignes à respecter :
+
+1. L'utilisation de l'IA est interdite pour les TD et TP sur l'IA.
+2. Les livrables (code c++ et/ou documents informatiques) doivent être séparés dans un répertoire par partie.
+3. Le code doit être commenté : les parties non commentées et obscures seront ignorées.
